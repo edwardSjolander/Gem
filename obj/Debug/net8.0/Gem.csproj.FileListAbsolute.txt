@@ -1,0 +1,14 @@
+C:\Users\edward.sjolander\source\repos\Gem\Gem\bin\Debug\net8.0\Gem.exe
+C:\Users\edward.sjolander\source\repos\Gem\Gem\bin\Debug\net8.0\Gem.deps.json
+C:\Users\edward.sjolander\source\repos\Gem\Gem\bin\Debug\net8.0\Gem.runtimeconfig.json
+C:\Users\edward.sjolander\source\repos\Gem\Gem\bin\Debug\net8.0\Gem.dll
+C:\Users\edward.sjolander\source\repos\Gem\Gem\bin\Debug\net8.0\Gem.pdb
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\Gem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\Gem.AssemblyInfoInputs.cache
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\Gem.AssemblyInfo.cs
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\Gem.csproj.CoreCompileInputs.cache
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\Gem.dll
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\refint\Gem.dll
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\Gem.pdb
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\Gem.genruntimeconfig.cache
+C:\Users\edward.sjolander\source\repos\Gem\Gem\obj\Debug\net8.0\ref\Gem.dll
